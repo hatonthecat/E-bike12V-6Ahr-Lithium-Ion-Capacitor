@@ -40,7 +40,7 @@ Here are 45 (pictured for array purposes- these are LiFEPO4, but LICS would look
 If I were using the Cornell Dubilier , I would need four 220F (250mWh x 4)x 72, or _288_ Cornell-Dubilier lithium ion capacitors to get a 6Ahr 12V battery. That would be way huger than those batteries. Seems like my calculation is a bit off. Or maybe not.
 250 CD batteries would cost $3958.80 for a 62.5Whr battery. With better efficiency on a [Gallium Nitride](https://www.eenewseurope.com/en/iqe-interview-the-geopolitics-of-gan/) power converter, 62.5Whr might actually be ok- in that it can have the same range as a larger battery that is typically required- or a power conversion loss that is typically associated with a higher watt hour battery (one of the two- I am new to this :).
 
- 6Ahr batteries are used for e-bikes with less than 250W batteries. but some of those are 36V and 48V. Anyways, 
+ 6Ahr batteries are used for e-bikes with less than 250W motors. but some of those are 36V and 48V. Anyways, 
 
 I suppose it could fit under a bike but it might be a bit large, or some other arrangement perhaps doubling them up- that doesn't look like two feet to me- I might have counted them length wise in a line rather than standing up. 
 
