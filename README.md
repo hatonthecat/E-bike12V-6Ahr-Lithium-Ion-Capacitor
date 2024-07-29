@@ -40,6 +40,10 @@ Someone on Linkedin last week designed a 12V 100A Gallium Nitride power converte
 ![image](https://github.com/user-attachments/assets/449b145c-1145-4ff0-bcd8-117a97d09d21)
 1.4kW/cubic inch.
 
+https://www.semiconductor-today.com/news_items/2024/mar/epc-010324.shtml
+
+ www.epc-co.com
+
 With A GaN transistor it might use less power, and thus result in greater range, plus the battery would last longer with more cycles.  
 
 A company in India developed the first GaN charger for ebikes: 
