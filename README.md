@@ -10,6 +10,15 @@ https://www.richardsonrfpd.com/ep-insights/3-8-v-800-f-lithium-ion-capacitor-cel
 
 Cornell-Dubilier has a [220F](https://www.digikey.com/en/products/detail/cornell-dubilier-knowles/VMF227M3R8/13665371) which is around 250mWh, which seems less dense than the Licap one- 880F is only 1Whr, compared to 1.6Whr on the Licap for 800F. They are quite pricey, around $19.79 for one on Digikey and $15.83 for 50 ($791.76 @ 12.5Whr, which also means it could run a 12V motor at 1.04 Amps for 1 hour, or a 12V motor at 6amps  for... 10 minutes?)- thus, not a budget e-bike category yet. But an interesting one, which will be explained later in the fender section. 
 
+Alternatively, one could purchase the even less dense Vinatech [250F](https://www.newark.com/vinatech/vel13353r8257g/lithium-ion-capacitor-250f-3-8v/dp/38AJ2231) LIC, which costs 
+
+1+	$6.93
+10+	$6.60
+25+	$5.71
+50+	$5.28
+
+and are 90mAh each. 50 of them would provide 4.5Ah of power.  A $264 bike battery is not unheard of on luxury bikes, but this is not enough range for even an e-scooter without a seat. But it could be done. 67 250F batteries would be needed for 6Ahr, 12V. for 10 minutes.  
+
 The LICAP website has a "Request pricing" so I am going to guess they cost more than $20 each :) :
 https://www.licaptech.com/lithium-ion-capacitor-cells
 https://www.licaptech.com/pdfs/datasheets/lithium-ion/LICAP_LIC_Summary.pdf
