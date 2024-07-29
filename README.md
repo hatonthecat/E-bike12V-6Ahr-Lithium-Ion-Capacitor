@@ -39,10 +39,12 @@ Someone on Linkedin last week designed a 12V 100A Gallium Nitride power converte
 ![image](https://github.com/user-attachments/assets/449b145c-1145-4ff0-bcd8-117a97d09d21)
 1.4kW/cubic inch.
 
-With A GAN transistor it might use less power, and thus result in greater range, plus the battery would last longer with more cycles.  
+With A GaN transistor it might use less power, and thus result in greater range, plus the battery would last longer with more cycles.  
 
 A company in India developed the first GaN charger for ebikes: 
 https://wise-integration.com/wise-integration-and-savoy-group-introduce-worlds-first-embedded-gan-charger-with-e-bike-battery/
+
+https://epc-co.com/epc/about-epc/events-and-news/news/artmid/1627/articleid/3148/shrink-motor-drives-for-ebikes-robots-and-drones-with-100-v-gallium-nitride-gan-fets-from-epc
 
 LICS would be lighter than LiPo (one of the benefits of having a less dense battery), but larger in overall size. That said, 9x5 32650 Cells could fit under a bike seat. And you could install a solar panel as a fender. The LICAP is rated for 100,000 charges. So with a highly efficient solar panel (whether it's [Perovskite](https://www.yahoo.com/tech/supercomputer-simulations-groundbreaking-discovery-potential-090000854.html) or a monocrystalline, you could theoretically recharge your battery several times while you bike or use a golf cart with a canopy.
 
