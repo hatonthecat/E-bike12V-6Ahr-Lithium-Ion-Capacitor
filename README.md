@@ -10,6 +10,10 @@ https://www.richardsonrfpd.com/ep-insights/3-8-v-800-f-lithium-ion-capacitor-cel
 
 Cornell-Dubilier has a [220F](https://www.digikey.com/en/products/detail/cornell-dubilier-knowles/VMF227M3R8/13665371) which is around 250mWh, which seems less dense than the Licap one- 880F is only 1Whr, compared to 1.6Whr on the Licap for 800F. They are quite pricey, around $19.79 for one on Digikey and $15.83 for 50 ($791.76 @ 12.5Whr, which also means it could run a 12V motor at 1.04 Amps for 1 hour, or a 12V motor at 6amps  for... 10 minutes?)- thus, not a budget e-bike category yet. But an interesting one, which will be explained later in the fender section. 
 
+Edit: They are a little cheaper at Mouser, at $12.78-$13.62 for 250 and 500,000 cycles: https://www.mouser.com/c/passive-components/capacitors/supercapacitors-ultracapacitors/?capacitance=220%20F&marcom=169066711 ($631 for 50- 12.5Whr)
+
+
+
 Alternatively, one could purchase the even less dense Vinatech [250F](https://www.newark.com/vinatech/vel13353r8257g/lithium-ion-capacitor-250f-3-8v/dp/38AJ2231) LIC, which costs 
 
 1+	$6.93
