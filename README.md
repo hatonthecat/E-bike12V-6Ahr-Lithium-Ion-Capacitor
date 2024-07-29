@@ -8,7 +8,7 @@ This 800F one is 1.6Whr:
 
 https://www.richardsonrfpd.com/ep-insights/3-8-v-800-f-lithium-ion-capacitor-cell-from-licap-technologies/
 
-Cornell-Dubilier has a [220F](https://www.digikey.com/en/products/detail/cornell-dubilier-knowles/VMF227M3R8/13665371) which is around 250mWh, which seems less dense than the Licap one- 880F is only 1Whr, compared to 1.6Whr on the Licap for 800F. They are quite pricey, around $19.79 for one on Digikey and $15.83 for 50 ($791.76)- thus, not a budget e-bike category yet.
+Cornell-Dubilier has a [220F](https://www.digikey.com/en/products/detail/cornell-dubilier-knowles/VMF227M3R8/13665371) which is around 250mWh, which seems less dense than the Licap one- 880F is only 1Whr, compared to 1.6Whr on the Licap for 800F. They are quite pricey, around $19.79 for one on Digikey and $15.83 for 50 ($791.76 @ 12.5Whr, which also means it could run a 12V motor at 1.04 Amps for 1 hour, or a 12V motor at 6amps  for... 10 minutes?)- thus, not a budget e-bike category yet. But an interesting one, which will be explained later in the fender section. 
 
 The LICAP website has a "Request pricing" so I am going to guess they cost more than $20 each :) :
 https://www.licaptech.com/lithium-ion-capacitor-cells
@@ -52,6 +52,8 @@ https://wise-integration.com/wise-integration-and-savoy-group-introduce-worlds-f
 
 https://epc-co.com/epc/about-epc/events-and-news/news/artmid/1627/articleid/3148/shrink-motor-drives-for-ebikes-robots-and-drones-with-100-v-gallium-nitride-gan-fets-from-epc
 
+Solar Fender
+--
 LICS would be lighter than LiPo (one of the benefits of having a less dense battery), but larger in overall size. That said, 9x5 32650 Cells could fit under a bike seat. And you could install a solar panel as a fender. The LICAP is rated for 100,000 charges. So with a highly efficient solar panel (whether it's [Perovskite](https://www.yahoo.com/tech/supercomputer-simulations-groundbreaking-discovery-potential-090000854.html) or a monocrystalline, you could theoretically recharge your battery several times while you bike or use a golf cart with a canopy.
 
 ![image](https://github.com/user-attachments/assets/04e1f8a5-9a75-4f00-abc5-d32cb0837d7f)
