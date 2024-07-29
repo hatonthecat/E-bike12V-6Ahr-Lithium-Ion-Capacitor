@@ -1,7 +1,7 @@
 # E-bike with 12V-6Ahr-Lithium-Ion-Capacitor
 How to design an e-bike battery using 45 3.2V 800F LICAP batteries with 1.6Whr each
 
-the lightest e-scooter batteries are around 6Ah. Lithium ion capacitor density is 6x less that of lithium polymer. 
+the lightest [e-scooter](https://en.wikipedia.org/wiki/Razor_(scooter)) batteries are around 6Ah. Lithium ion capacitor density is 6x less that of lithium polymer. (these are ok for flat roads, not bumpy ones with lots of rough terrain and potholes). They are not really powerful enough for a seated e-bike. I may update this repository with an analysis on a more powerful e-bike battery, such as a 24V or 36V scooter.
 
 This 800F one is 1.6Whr:
 ![image](https://github.com/user-attachments/assets/f1393e3e-2825-4c4a-b9bb-9745075b1a58)
@@ -52,3 +52,5 @@ LICAP also makes 2200F LICs, but I made these calculations before I read that, a
 
 ![image](https://github.com/user-attachments/assets/778069b7-8dbf-4bfd-94c2-cd71b9753a03)
  
+These are 4.4Whr batteries, which means installing _fifty_ of them would provide 220Watts of power for 1 hour. That is the minimum to propel an e-bike with a seat. The battery bank would also be around 2.75x larger, which may or may not fit under your bike... :)
+
