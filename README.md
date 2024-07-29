@@ -1,2 +1,48 @@
-# E-bike12V-6Ahr-Lithium-Ion-Capacitor
+# E-bike with 12V-6Ahr-Lithium-Ion-Capacitor
 How to design an e-bike battery using 45 3.2V 800F LICAP batteries with 1.6Whr each
+
+the lightest e-scooter batteries are around 6Ah. Lithium ion capacitor density is 6x less that of lithium polymer. 
+
+This 800F one is 1.6Whr https://www.richardsonrfpd.com/ep-insights/3-8-v-800-f-lithium-ion-capacitor-cell-from-licap-technologies/
+
+Cornell-Dubilier has a [220F](https://www.digikey.com/en/products/detail/cornell-dubilier-knowles/VMF227M3R8/13665371) which is around 250mWh, which seems less dense than the Licap one- 880F is only 1Whr, compared to 1.6Whr on the Licap for 800F. They are quite pricey, around $19.79 for one on Digikey and $15.83 for 50 ($791.76)- thus, not a budget e-bike category yet.
+
+The LICAP website has a "Request pricing" so I am going to guess they cost more than $20 each :) :
+https://www.licaptech.com/lithium-ion-capacitor-cells
+https://www.licaptech.com/pdfs/datasheets/lithium-ion/LICAP_LIC_Summary.pdf
+
+It's also unclear which one has a higher continuous Amp hour discharge rate- it could be the Cornell one, whereas the other one may be designed more like a super cap- for short bursts. https://4donline.ihs.com/images/VipMasterIC/IC/CDUB/CDUB-S-A0014419427/CDUB-S-A0014512062-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0
+
+12V x 6Amps in one hour is is 72Whr.
+
+So If I designed a parallel battery array of 45 x1.6Whr 800F LiCAP lithium ion capacitors, I would have 72Whrs. It seems like  200F LICAP can be plugged in to a 18650 slot without running wires. and 800F uses  Size 32650 Cell Size, a form factor I was not aware of (see pdf):
+ 32x65mm
+https://lynxbattery.com/products/stocked-in-usa-lynx-battery-32650-3-2v-6-5ah-lithium-iron-phosphate-lifepo4-rechargeable-cell not as large as I worried. But...
+
+65mm times 45 (perhaps 9x5) is 160mm x 585 mm or 23 inch battery x 6.2 inches (could be more square like too) 
+
+Here are 45: 
+![image](https://github.com/user-attachments/assets/b301c28c-4596-4c94-81b2-2bd12fdb3603)
+
+
+If I were using the Cornell Dubilier , I would need four 220F (250Whr x4)x 72, or 288 lithium ion capacitors to get a 6Ahr 12V battery. That would be way huger than those batteries. Seems like my calculation is a bit off. Or maybe not.
+
+ 6Ahr batteries are used for e-bikes with less than 250W batteries. but some of those are 36V and 48V. Anyways, 
+
+I suppose it could fit under a bike but it might be a bit large, or some other arrangement perhaps doubling them up- that doesn't look like two feet to me- I might have counted them length wise in a line rather than standing up. 
+
+Someone on Linkedin last week designed a 12V 100A Gallium Nitride power converter
+
+![image](https://github.com/user-attachments/assets/449b145c-1145-4ff0-bcd8-117a97d09d21)
+1.4kW/cubic inch.
+
+With A GAN transistor it might use less power, and thus result in greater range, plus the battery would last longer with more cycles.  
+
+A company in India developed the first GaN charger for ebikes: 
+https://wise-integration.com/wise-integration-and-savoy-group-introduce-worlds-first-embedded-gan-charger-with-e-bike-battery/
+
+LICS would be lighter than LiPo (one of the benefits of having a less dense battery), but larger in overall size. That said, 9x5 32650 Cells could fit under a bike seat. And you could install a solar panel as a fender. The LICAP is rated for 100,000 charges. So with a highly efficient solar panel (whether it's [Perovskite](https://www.yahoo.com/tech/supercomputer-simulations-groundbreaking-discovery-potential-090000854.html) or a monocrystalline, you could theoretically recharge your battery several times while you bike or use a golf cart with a canopy.
+
+![image](https://github.com/user-attachments/assets/04e1f8a5-9a75-4f00-abc5-d32cb0837d7f)
+
+
