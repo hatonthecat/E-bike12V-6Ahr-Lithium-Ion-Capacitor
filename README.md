@@ -42,6 +42,7 @@ Someone on Linkedin last week designed a 12V 100A Gallium Nitride power converte
 
 https://www.semiconductor-today.com/news_items/2024/mar/epc-010324.shtml
 
+https://en.wikipedia.org/wiki/Efficient_Power_Conversion
  www.epc-co.com
 
 With A GaN transistor it might use less power, and thus result in greater range, plus the battery would last longer with more cycles.  
