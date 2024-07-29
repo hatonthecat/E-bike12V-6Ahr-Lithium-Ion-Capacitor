@@ -48,7 +48,7 @@ LICS would be lighter than LiPo (one of the benefits of having a less dense batt
 
 ![image](https://github.com/user-attachments/assets/04e1f8a5-9a75-4f00-abc5-d32cb0837d7f)
 
-LICAP also makes 2200F LICs, but I made these calculations before I read that, and I will will assume they cost way more, have less ubiquitous support with 32650 formats, and while might need fewer than 30 batteries, might be a bit less easy to transport (maybe even safety issues) 
+LICAP also makes 2200F LICs, but I made these calculations before I read that, and I will will assume they cost way more, have less ubiquitous support than with 32650 formats, and while might need fewer than 30 batteries, might be a bit less easy to transport (maybe even safety issues) 
 
 ![image](https://github.com/user-attachments/assets/778069b7-8dbf-4bfd-94c2-cd71b9753a03)
  
