@@ -80,7 +80,10 @@ These are 4.4Whr batteries, which means installing _fifty_ of them would provide
 Update: There are even 3000F LICS: https://www.licaptech.com/pdfs/datasheets/lithium-ion/LC3000-380-ASW.pdf which provides 6Whrs.. 
 
 https://www.licaptech.com/pdfs/datasheets/lithium-ion/LC0200-380-ASW_Datasheet.pdf compared to the 250F Vinatech, this 200F is 270mAh-400mAh, more than 3x as dense at 50F less...
-Edit: this 200F LICAP has the same dimensions as the MNT Reform's eight 18650 batteries:
+Edit: this[ 200F LICAP](https://www.licaptech.com/products/lc0200-380-asw-lithium-ion-capacitor) has the same dimensions as the MNT Reform's eight 18650 batteries:
+
+![image](https://github.com/user-attachments/assets/6cb8a6bf-2538-4ad0-9ed1-b901ccb38970)
+
 
 ![image](https://github.com/user-attachments/assets/04f4a8f9-a4cf-4521-99b8-6827e3e4b882)
 https://www.crowdsupply.com/mnt/reform
