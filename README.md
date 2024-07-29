@@ -80,6 +80,18 @@ These are 4.4Whr batteries, which means installing _fifty_ of them would provide
 Update: There are even 3000F LICS: https://www.licaptech.com/pdfs/datasheets/lithium-ion/LC3000-380-ASW.pdf which provides 6Whrs.. 
 
 https://www.licaptech.com/pdfs/datasheets/lithium-ion/LC0200-380-ASW_Datasheet.pdf compared to the 250F Vinatech, this 200F is 270mAh-400mAh, more than 3x as dense at 50F less...
+Edit: this 200F LICAP has the same dimensions as the MNT Reform's eight 18650 batteries:
+
+![image](https://github.com/user-attachments/assets/04f4a8f9-a4cf-4521-99b8-6827e3e4b882)
+https://www.crowdsupply.com/mnt/reform
+![image](https://github.com/user-attachments/assets/580e828c-0752-4ccf-8883-87a6beaa3838)
+With eight 0.4Whr batteries, that's 3.2Whr- fine for a single board computer than consumes 50mAh and a 1 watt screen, but not enough for a 1-2 watt quad-core ARM + 2 watt display.
+
+It is likely the LICAP 200F costs more than $20 each. Mouser sells 250F Cornell Dubilier for $12.42 each. Since you need eight to get 2Whr- the only problem is that CD doesn't use the 18650 format (LICAP may be the only one right now that makes it that convenient). But if you add a solar panel to the MNT Reform's lid, you could recharge the hybrid caps mroe frequently- they are rated for 250,000 cycles. You'd also need a memory in pixel screen or e-ink at the least to limit the refreshes and to keep the power consumption of the screen under 1 watt. 
+
+
+
+
 
 
 
