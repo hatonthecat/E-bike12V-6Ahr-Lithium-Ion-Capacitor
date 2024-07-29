@@ -73,3 +73,9 @@ LICAP also makes 2200F LICs, but I made these calculations before I read that, a
  
 These are 4.4Whr batteries, which means installing _fifty_ of them would provide 220Watts of power for 1 hour. That is the minimum to propel an e-bike with a seat. The battery bank would also be around 2.75x larger, which may or may not fit under your bike... :)
 
+Update: There are even 3000F LICS: https://www.licaptech.com/pdfs/datasheets/lithium-ion/LC3000-380-ASW.pdf which provides 6Whrs.. 
+
+https://www.licaptech.com/pdfs/datasheets/lithium-ion/LC0200-380-ASW_Datasheet.pdf compared to the 250F Vinatech, this 200F is 270mAh-400mAh, more than 3x as dense at 50F less...
+
+
+
