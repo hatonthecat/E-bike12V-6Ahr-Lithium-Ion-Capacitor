@@ -3,7 +3,10 @@ How to design an e-bike battery using 45 3.2V 800F LICAP batteries with 1.6Whr e
 
 the lightest e-scooter batteries are around 6Ah. Lithium ion capacitor density is 6x less that of lithium polymer. 
 
-This 800F one is 1.6Whr https://www.richardsonrfpd.com/ep-insights/3-8-v-800-f-lithium-ion-capacitor-cell-from-licap-technologies/
+This 800F one is 1.6Whr:
+![image](https://github.com/user-attachments/assets/f1393e3e-2825-4c4a-b9bb-9745075b1a58)
+
+https://www.richardsonrfpd.com/ep-insights/3-8-v-800-f-lithium-ion-capacitor-cell-from-licap-technologies/
 
 Cornell-Dubilier has a [220F](https://www.digikey.com/en/products/detail/cornell-dubilier-knowles/VMF227M3R8/13665371) which is around 250mWh, which seems less dense than the Licap one- 880F is only 1Whr, compared to 1.6Whr on the Licap for 800F. They are quite pricey, around $19.79 for one on Digikey and $15.83 for 50 ($791.76)- thus, not a budget e-bike category yet.
 
@@ -21,7 +24,7 @@ https://lynxbattery.com/products/stocked-in-usa-lynx-battery-32650-3-2v-6-5ah-li
 
 65mm times 45 (perhaps 9x5) is 160mm x 585 mm or 23 inch battery x 6.2 inches (could be more square like too) 
 
-Here are 45: 
+Here are 45 (pictured for array purposes- these are LiFEPO4, but LICS would look the same using 32650 format): 
 ![image](https://github.com/user-attachments/assets/b301c28c-4596-4c94-81b2-2bd12fdb3603)
 
 
@@ -45,4 +48,7 @@ LICS would be lighter than LiPo (one of the benefits of having a less dense batt
 
 ![image](https://github.com/user-attachments/assets/04e1f8a5-9a75-4f00-abc5-d32cb0837d7f)
 
+LICAP also makes 2200F LICs, but I made these calculations before I read that, and I will will assume they cost way more, have less ubiquitous support with 32650 formats, and while might need fewer than 30 batteries, might be a bit less easy to transport (maybe even safety issues) 
 
+![image](https://github.com/user-attachments/assets/778069b7-8dbf-4bfd-94c2-cd71b9753a03)
+ 
