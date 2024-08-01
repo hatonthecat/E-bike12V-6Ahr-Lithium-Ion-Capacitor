@@ -67,7 +67,10 @@ https://epc-co.com/epc/about-epc/events-and-news/news/artmid/1627/articleid/3148
 
 Solar Fender
 --
-LICS would be lighter than LiPo (one of the benefits of having a less dense battery), but larger in overall size. That said, 9x5 32650 Cells could fit under a bike seat. And you could install a solar panel as a fender. The LICAP is rated for 100,000 charges. So with a highly efficient solar panel (whether it's [Perovskite](https://www.yahoo.com/tech/supercomputer-simulations-groundbreaking-discovery-potential-090000854.html) or a monocrystalline, you could theoretically recharge your battery several times while you bike or use a golf cart with a canopy.
+![image](https://github.com/user-attachments/assets/cc13811c-2e9e-490d-82bc-558b116f2f14)
+
+
+LICS would be lighter than LiPo (one of the benefits of having a less dense battery), but larger in overall size. That said, 9x5 32650 Cells could fit under a bike seat. And you could install a solar panel as a fender. The LICAP is rated for 100,000 charges. So with a highly efficient solar panel (whether it's [Perovskite](https://www.yahoo.com/tech/supercomputer-simulations-groundbreaking-discovery-potential-090000854.html) or a monocrystalline, you could theoretically recharge your battery several times an hour while you bike or use a golf cart with a canopy.
 
 ![image](https://github.com/user-attachments/assets/04e1f8a5-9a75-4f00-abc5-d32cb0837d7f)
 
