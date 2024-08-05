@@ -21,7 +21,7 @@ Alternatively, one could purchase the even less dense Vinatech [250F](https://ww
 25+	$5.71
 50+	$5.28
 
-and are 90mAh each. 50 of them would provide 4.5Ah of power.  A $264 bike battery is not unheard of on luxury bikes, but this is not enough range for even an e-scooter without a seat. But it could be done. 67 250F batteries would be needed for 6Ahr, 12V. for 10 minutes.  
+and are 90mAh each. 50 of them would provide 4.5Ah of power.  A $264 bike battery is not unheard of on luxury bikes, but this is not enough range for even an e-scooter without a seat. But it could be done. 67 250F batteries would be needed for 6Ahr, 3.7V. for 10 minutes. (Edit: 3.7V was updated from 12V)
 
 The LICAP website has a "Request pricing" so I am going to guess they cost more than $20 each :) :
 https://www.licaptech.com/lithium-ion-capacitor-cells
